@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle( "RvtForgify" )]
-[assembly: AssemblyDescription( "Revit Add-In Description for RvtForgify" )]
+[assembly: AssemblyDescription( "Revit add-in to prepare a complex building model for Forge translation" )]
 [assembly: AssemblyConfiguration( "" )]
 [assembly: AssemblyCompany( "Autodesk Inc." )]
 [assembly: AssemblyProduct( "RvtForgify Revit C# .NET Add-In" )]
-[assembly: AssemblyCopyright( "Copyright 2016 (C) Jeremy Tammik, Autodesk Inc." )]
+[assembly: AssemblyCopyright( "Copyright 2017 (C) Jeremy Tammik, Autodesk Inc." )]
 [assembly: AssemblyTrademark( "" )]
 [assembly: AssemblyCulture( "" )]
 
@@ -32,5 +32,10 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
+//
+// History:
+//
+// 2017-04-12 2017.0.0.0 initial commit
+//
 [assembly: AssemblyVersion( "2017.0.0.0" )]
 [assembly: AssemblyFileVersion( "2017.0.0.0" )]
