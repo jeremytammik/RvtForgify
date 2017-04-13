@@ -1,6 +1,6 @@
 # RvtForgify
 
-Revit C# .NET add-in to prepare a complex building model for Forge translation.
+C# .NET Revit API add-in to clean up and prepare a complex building model for Forge translation.
 
 - Remove all views except `"{3D}"`.
 
