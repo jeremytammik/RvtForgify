@@ -35,7 +35,6 @@ namespace RvtForgify
       doc.Delete( ids );
     }
 
-
     public Result Execute(
       ExternalCommandData commandData,
       ref string message,
